@@ -1,0 +1,14 @@
+<html>
+
+<frameset rows="50%,50%">
+
+<frame noresize="noresize" src="http://www.bing.com">
+
+<frameset cols="25%,75%">
+<frame noresize="noresize"src="http://www.ebay.com">
+<frame noresize="noresize"src="http://www.srikl.edu.my">
+</frameset>
+
+</frameset>
+
+</html>

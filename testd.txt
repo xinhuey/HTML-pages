@@ -1,0 +1,10 @@
+<html>
+<body>
+<table>
+<tr>
+<td>Cell A</td>
+<td>Cell b</td>
+</tr>
+</table>
+</html>
+</body>
